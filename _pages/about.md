@@ -49,6 +49,6 @@ Please feel free in touch if you are interested in my research work and want to 
 
 # 💻 Internships
 - *2022.10 - present*, Renmin University of China, advised by Assistant Prof [Jiaxin Mao](https://sites.google.com/site/maojiaxin/). 
-- *2022.02 - 2022.07*, Harbin Institute of Technology, Shenzhen (remote), advised by Assistant Prof [Xuebo Liu](https://sunbowliu.github.io/).
+- *2022.03 - 2022.07*, Harbin Institute of Technology, Shenzhen (remote), advised by Assistant Prof [Xuebo Liu](https://sunbowliu.github.io/).
 - *2021.10 - 2022.02*, Wechat AI, advised by [Yong Hu](https://nghuyong.top/).
 - *2019.06 - 2019.08*, Westlake University, advised by Prof [Yue Zhang](https://frcchang.github.io/).
