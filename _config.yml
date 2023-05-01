@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Peiyuan Gong （公培元）"
+title                    : "Peiyuan Gong"
 description              : "Knowledge seekers on the road to artificial intelligence, focusing on natural language processing and information retrieval"
 repository               : "pygongnlp/pygongnlp.github.io"
 google_scholar_stats_use_cdn : true
@@ -21,7 +21,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Peiyuan Gong （公培元）"
+  name             : "Peiyuan Gong"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "Renmin University of China"
   location         : "Beijing, China"

@@ -23,12 +23,15 @@ is a master student from [School of Computer Science and Technology](https://cs.
 (北京理工大学计算机学院). I will join [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/index.htm), Renmin University of China
 (中国人民大学高瓴人工智能学院) as a Ph.D student in Sep.2023.
 
-My research directions are natural language processing and information retrieval. Currently my research interests include:
+My research directions are natural language processing and information retrieval and have published several papers 
+at the top international AI conferences such as ACL, EMNLP. Currently my research interests include:
 
 - Evaluation in NLP/IR
-- Conversational information system
+- Conversational Information System
 - User Behavior Analysis
-- Large foundation model
+- Large Foundation Models
+
+Please feel free in touch if you are interested in my research work and want to communicate further.
 
 # 🔥 News
 - *2023.05*: &nbsp;🎉🎉 One paper is accepted by ACL2023!. 
