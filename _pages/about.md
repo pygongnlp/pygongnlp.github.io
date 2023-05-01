@@ -27,10 +27,14 @@ My research interest includes neural machine translation and computer vision. I 
 - *2023.03*: &nbsp;🎉🎉 I will join Renmin University of China to study for Ph.D.
 - *2022.11*: &nbsp;🎉🎉 One paper is accepted by EMNLP2023!. 
 
+# 📝 Publications 
+- ``EMNLP 2022`` [Revisiting Grammatical Error Correction Evaluation and Beyond](https://aclanthology.org/2022.emnlp-main.463/), **Peiyuan Gong**, Xuebo Liu, Heyan Huang, Min Zhang \| [**Project**](https://github.com/pygongnlp/PT-M2)
+- ``NLPCC 2019`` [Charge Prediction with Legal Attention](https://www.ijcai.org/Proceedings/2020/0534.pdf), Qiaoben bao, Hongying Zan, **Peiyuan Gong**, Junyi Chen, Yanghua Xiao
+
 # 📖 Educations
-- *2023.09 - 2027.06 (hope)*, advised by Assistant Prof [Jiaxin Mao](https://sites.google.com/site/maojiaxin/). 
-- *2020.09 - 2023.06*, advised by Prof [Heyan Huang](https://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm) and Associate Prof [Xianling mao](https://cs.bit.edu.cn/szdw/jsml/js/mxl/index.htm). 
-- *2016.09 - 2020.06*, advised by Prof [Hongying Zan](http://www5.zzu.edu.cn/nlp/info/1004/1169.htm)
+- *2023.09 - 2027.06 (hope)*, Ph.D, Gaoling School of Artificial Intelligence, Renmin University of China, advised by Assistant Prof [Jiaxin Mao](https://sites.google.com/site/maojiaxin/). 
+- *2020.09 - 2023.06*, Master, School of Copmuter Science and Technology, Beijing Institute of Technology, advised by Prof [Heyan Huang](https://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm) and Associate Prof [Xianling mao](https://cs.bit.edu.cn/szdw/jsml/js/mxl/index.htm). 
+- *2016.09 - 2020.06*, Undergraduate, School of Computer and Artificial Intelligence, Zhengzhou University, advised by Prof [Hongying Zan](http://www5.zzu.edu.cn/nlp/info/1004/1169.htm).
 
 # 💻 Internships
 - *2022.10 - present*, Renmin University of China, advised by Assistant Prof [Jiaxin Mao](https://sites.google.com/site/maojiaxin/). 
