@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Peiyuan Gong （公培元）"
-description              : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. "
+description              : "Knowledge seekers on the road to artificial intelligence, focusing on natural language processing and information retrieval"
 repository               : "pygongnlp/pygongnlp.github.io"
 google_scholar_stats_use_cdn : true
 
