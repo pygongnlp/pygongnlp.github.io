@@ -17,19 +17,27 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hello, I am Peiyuan Gong (公培元), you can call me pei yuan anytime. I graduated from [School of Computer and 
+Artificial Intelligence](http://www7.zzu.edu.cn/csai/), Zhengzhou University (郑州大学计算机与人工智能学院) with a bachelor's degree and current 
+is a master student from [School of Computer Science and Technology](https://cs.bit.edu.cn/), Beijing Institute of Technology 
+(北京理工大学计算机学院). I will join [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/index.htm), Renmin University of China
+(中国人民大学高瓴人工智能学院) as a Ph.D student in Sep.2023.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research directions are natural language processing and information retrieval. Currently my research interests include:
 
+- Evaluation in NLP/IR
+- Conversational information system
+- User Behavior Analysis
+- Large foundation model
 
 # 🔥 News
 - *2023.05*: &nbsp;🎉🎉 One paper is accepted by ACL2023!. 
 - *2023.03*: &nbsp;🎉🎉 I will join Renmin University of China to study for Ph.D.
-- *2022.11*: &nbsp;🎉🎉 One paper is accepted by EMNLP2023!. 
+- *2022.11*: &nbsp;🎉🎉 One paper is accepted by EMNLP2022!. 
 
 # 📝 Publications 
 - ``EMNLP 2022`` [Revisiting Grammatical Error Correction Evaluation and Beyond](https://aclanthology.org/2022.emnlp-main.463/), **Peiyuan Gong**, Xuebo Liu, Heyan Huang, Min Zhang \| [**Project**](https://github.com/pygongnlp/PT-M2)
-- ``NLPCC 2019`` [Charge Prediction with Legal Attention](https://www.ijcai.org/Proceedings/2020/0534.pdf), Qiaoben bao, Hongying Zan, **Peiyuan Gong**, Junyi Chen, Yanghua Xiao
+- ``NLPCC 2019`` [Charge Prediction with Legal Attention](https://link.springer.com/chapter/10.1007/978-3-030-32233-5_35), Qiaoben bao, Hongying Zan, **Peiyuan Gong**, Junyi Chen, Yanghua Xiao
 
 # 📖 Educations
 - *2023.09 - 2027.06 (hope)*, Ph.D, Gaoling School of Artificial Intelligence, Renmin University of China, advised by Assistant Prof [Jiaxin Mao](https://sites.google.com/site/maojiaxin/). 
