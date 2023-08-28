@@ -44,12 +44,12 @@ Please feel free in touch if you are interested in my research work and want to 
 - ``NLPCC 2019`` [Charge Prediction with Legal Attention](https://link.springer.com/chapter/10.1007/978-3-030-32233-5_35), Qiaoben bao, Hongying Zan, **Peiyuan Gong**, Junyi Chen and Yanghua Xiao
 
 # 📖 Educations
-- *2023.09 - 2027.06 (hope)*, Ph.D, Gaoling School of Artificial Intelligence, Renmin University of China, advised by Assistant Prof [Jiaxin Mao](https://sites.google.com/site/maojiaxin/). 
+- *2023.09 - 2027.06 (hope)*, Ph.D, Gaoling School of Artificial Intelligence, Renmin University of China, advised by Associate Prof [Jiaxin Mao](https://sites.google.com/site/maojiaxin/). 
 - *2020.09 - 2023.06*, Master, School of Copmuter Science and Technology, Beijing Institute of Technology, advised by Prof [Heyan Huang](https://cs.bit.edu.cn/szdw/jsml/js/hhy/index.htm) and Associate Prof [Xianling mao](https://cs.bit.edu.cn/szdw/jsml/js/mxl/index.htm). 
 - *2016.09 - 2020.06*, Undergraduate, School of Computer and Artificial Intelligence, Zhengzhou University, advised by Prof [Hongying Zan](http://www5.zzu.edu.cn/nlp/info/1004/1169.htm).
 
 # 💻 Internships
-- *2022.10 - present*, Renmin University of China, advised by Assistant Prof [Jiaxin Mao](https://sites.google.com/site/maojiaxin/). 
+- *2022.10 - present*, Renmin University of China, advised by Associate Prof [Jiaxin Mao](https://sites.google.com/site/maojiaxin/). 
 - *2022.03 - 2022.07*, Harbin Institute of Technology, Shenzhen (remote), advised by Assistant Prof [Xuebo Liu](https://sunbowliu.github.io/).
 - *2021.10 - 2022.02*, Wechat AI, advised by [Yong Hu](https://nghuyong.top/).
 - *2019.06 - 2019.08*, Westlake University, advised by Prof [Yue Zhang](https://frcchang.github.io/).
