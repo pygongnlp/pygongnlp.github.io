@@ -23,7 +23,7 @@ Before that, I received M.Eng and B.Eng degrees in Computer Science and Technolo
 
 My research focuses on information retrieval and natural language processing, having published several papers 
 at the top international AI conferences such as ACL, EMNLP. 
-Currently, I am dedicated to exploring the next generation of search engine based on large language models.
+Currently, I am dedicated to exploring the next generation of search engine with large language models.
 
 Please feel free in touch if you are interested in my research work and want to communicate further.
 
