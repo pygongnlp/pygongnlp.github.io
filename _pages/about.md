@@ -17,19 +17,13 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hello, I am Peiyuan Gong (公培元), you can call me pei yuan anytime. I graduated from [School of Computer and 
-Artificial Intelligence](http://www7.zzu.edu.cn/csai/), Zhengzhou University (郑州大学计算机与人工智能学院) with a bachelor's degree and current 
-is a master student from [School of Computer Science and Technology](https://cs.bit.edu.cn/), Beijing Institute of Technology 
-(北京理工大学计算机学院). I will join [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/index.htm), Renmin University of China
-(中国人民大学高瓴人工智能学院) as a Ph.D student in Sep.2023.
+Hello, I am Peiyuan Gong (公培元, in Chinese). Feel free to call me Pei Yuan.
+I am a first-year Ph.D. student at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/index.htm), [Renmin University of China](https://www.ruc.edu.cn/), under the supervision of [Jiaxin Mao](https://sites.google.com/site/maojiaxin/).
+Before that, I received M.Eng and B.Eng degrees in Computer Science and Technology from [Beijing Institute of Technology](https://bit.edu.cn/) in 2023 and from [Zhengzhou University](http://www.zzu.edu.cn/) in 2020, respectively.
 
-My research directions are natural language processing and information retrieval and have published several papers 
-at the top international AI conferences such as ACL, EMNLP. Currently my research interests include:
-
-- Evaluation in NLP/IR
-- Conversational Information System
-- User Behavior Analysis
-- Large Foundation Models
+My research focuses on information retrieval and natural language processing, having published several papers 
+at the top international AI conferences such as ACL, EMNLP. 
+Currently, I am dedicated to exploring the next generation of search engine based on large language models.
 
 Please feel free in touch if you are interested in my research work and want to communicate further.
 
@@ -49,7 +43,7 @@ Please feel free in touch if you are interested in my research work and want to 
 - *2016.09 - 2020.06*, Undergraduate, School of Computer and Artificial Intelligence, Zhengzhou University, advised by Prof [Hongying Zan](http://www5.zzu.edu.cn/nlp/info/1004/1169.htm).
 
 # 💻 Internships
-- *2022.10 - present*, Renmin University of China, advised by Associate Prof [Jiaxin Mao](https://sites.google.com/site/maojiaxin/). 
+- *2022.10 - 2023.08*, Renmin University of China, advised by Associate Prof [Jiaxin Mao](https://sites.google.com/site/maojiaxin/). 
 - *2022.03 - 2022.07*, Harbin Institute of Technology, Shenzhen (remote), advised by Assistant Prof [Xuebo Liu](https://sunbowliu.github.io/).
 - *2021.10 - 2022.02*, Wechat AI, advised by [Yong Hu](https://nghuyong.top/).
 - *2019.06 - 2019.08*, Westlake University, advised by Prof [Yue Zhang](https://frcchang.github.io/).
