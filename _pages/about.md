@@ -33,7 +33,10 @@ Please feel free in touch if you are interested in my research work and want to 
 - *2022.11*: &nbsp;🎉🎉 One paper is accepted by EMNLP2022!. 
 
 # 📝 Publications 
-- ``ACL 2023`` <span style="color: red; font-weight: bold;">(Oral)</span> [TemplateGEC: Improving Grammatical Error Correction with Detection Template](), Yinghao Li, Xuebo Liu, Shuo Wang, **Peiyuan Gong**, Derek F.Wong, Yang Gao, Heyan Huang and Min Zhang 
+## Preprint
+- ``arxiv 2023`` [CoAScore: Chain-of-Aspects Prompting for NLG Evaluation](), **Peiyuan Gong**, Jiaxin Mao
+## Published
+- ``ACL 2023`` <span style="color: red; font-weight: bold;">(Oral)</span> [TemplateGEC: Improving Grammatical Error Correction with Detection Template](https://aclanthology.org/2023.acl-long.380.pdf), Yinghao Li, Xuebo Liu, Shuo Wang, **Peiyuan Gong**, Derek F.Wong, Yang Gao, Heyan Huang and Min Zhang 
 - ``EMNLP 2022`` [Revisiting Grammatical Error Correction Evaluation and Beyond](https://aclanthology.org/2022.emnlp-main.463/), **Peiyuan Gong**, Xuebo Liu, Heyan Huang and Min Zhang \| [**Project**](https://github.com/pygongnlp/PT-M2)
 - ``NLPCC 2019`` [Charge Prediction with Legal Attention](https://link.springer.com/chapter/10.1007/978-3-030-32233-5_35), Qiaoben bao, Hongying Zan, **Peiyuan Gong**, Junyi Chen and Yanghua Xiao
 
