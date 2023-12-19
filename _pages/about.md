@@ -34,7 +34,7 @@ Please feel free in touch if you are interested in my research work and want to 
 
 # 📝 Publications 
 ## Preprint
-- ``arxiv 2023`` [CoAScore: Chain-of-Aspects Prompting for NLG Evaluation](), **Peiyuan Gong**, Jiaxin Mao
+- ``arxiv 2023`` [CoAScore: Chain-of-Aspects Prompting for NLG Evaluation](https://arxiv.org/pdf/2312.10355.pdf), **Peiyuan Gong**, Jiaxin Mao
   
 ## Published
 - ``ACL 2023`` <span style="color: red; font-weight: bold;">(Oral)</span> [TemplateGEC: Improving Grammatical Error Correction with Detection Template](https://aclanthology.org/2023.acl-long.380.pdf), Yinghao Li, Xuebo Liu, Shuo Wang, **Peiyuan Gong**, Derek F.Wong, Yang Gao, Heyan Huang and Min Zhang \| [Project](https://github.com/li-aolong/TemplateGEC)
