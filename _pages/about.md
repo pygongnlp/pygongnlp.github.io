@@ -34,6 +34,7 @@ Please feel free in touch if you are interested in my research work and want to 
 
 # 📝 Publications 
 ## Preprint
+- ``arxiv 2024/03`` [USimAgent: Large Language Models for Simulating Search Users](https://arxiv.org/pdf/2403.09142.pdf), Erhan Zhang, Xingzhu Wang, **Peiyuan Gong**, Yankai Lin and Jiaxin Mao 
 - ``arxiv 2024/02`` [CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models](https://arxiv.org/pdf/2402.06360.pdf), **Peiyuan Gong**, Jiamian Li and Jiaxin Mao \| [Project](https://github.com/pygongnlp/CoSearchAgent)
 - ``arxiv 2023/12`` [CoAScore: Chain-of-Aspects Prompting for NLG Evaluation](https://arxiv.org/pdf/2312.10355.pdf), **Peiyuan Gong**, Jiaxin Mao
   
