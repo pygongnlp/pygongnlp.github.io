@@ -28,10 +28,10 @@ Currently, I am dedicated to exploring the next generation of search engine with
 Please feel free in touch if you are interested in my research work and want to communicate further.
 
 # 🔥 News
-- *2024.03*: &nbsp;🎉🎉 Two papers are accepted by SIGIR2024!.
-- *2023.05*: &nbsp;🎉🎉 One paper is accepted by ACL2023!. 
-- *2023.03*: &nbsp;🎉🎉 I will join Renmin University of China to study for Ph.D.
-- *2022.11*: &nbsp;🎉🎉 One paper is accepted by EMNLP2022!. 
+- *2024.03*: &nbsp;🎉🎉 Two papers are accepted by SIGIR2024!
+- *2023.05*: &nbsp;🎉🎉 One paper is accepted by ACL2023!
+- *2023.03*: &nbsp;🎉🎉 I will join Renmin University of China to study for Ph.D!
+- *2022.11*: &nbsp;🎉🎉 One paper is accepted by EMNLP2022!
 
 # 📝 Publications 
 ## Preprint
