@@ -28,6 +28,7 @@ Currently, I am dedicated to exploring the next generation of search engine with
 Please feel free in touch if you are interested in my research work and want to communicate further.
 
 # 🔥 News
+- *2024.07*: &nbsp;🎉🎉 Our paper titled "CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models" was selected as a nominee for the Best Short Paper Award of SIGIR 2024 ([twitter](https://x.com/SIGIRConf/status/1812881830150062135))!
 - *2024.03*: &nbsp;🎉🎉 Two papers are accepted by SIGIR2024!
 - *2023.05*: &nbsp;🎉🎉 One paper is accepted by ACL2023!
 - *2023.03*: &nbsp;🎉🎉 I will join Renmin University of China to study for Ph.D!
@@ -38,7 +39,7 @@ Please feel free in touch if you are interested in my research work and want to 
 - ``arxiv 2023/12`` [CoAScore: Chain-of-Aspects Prompting for NLG Evaluation](https://arxiv.org/pdf/2312.10355.pdf), **Peiyuan Gong**, Jiaxin Mao
   
 ## Published
-- ``SIGIR 2024`` <span style="color: red; font-weight: bold;"> **(Best Demo Paper Nominees)**</span> [CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models](https://arxiv.org/pdf/2402.06360.pdf), **Peiyuan Gong**, Jiamian Li and Jiaxin Mao \| [Project](https://github.com/pygongnlp/CoSearchAgent) 
+- ``SIGIR 2024`` <span style="color: red; font-weight: bold;"> **(Best Short Paper Nominee)**</span> [CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models](https://arxiv.org/pdf/2402.06360.pdf), **Peiyuan Gong**, Jiamian Li and Jiaxin Mao \| [Project](https://github.com/pygongnlp/CoSearchAgent) 
 - ``SIGIR 2024`` (Short) [USimAgent: Large Language Models for Simulating Search Users](https://arxiv.org/pdf/2403.09142.pdf), Erhan Zhang, Xingzhu Wang, **Peiyuan Gong**, Yankai Lin and Jiaxin Mao 
 - ``ACL 2023`` <span style="color: red; font-weight: bold;">(Oral)</span> [TemplateGEC: Improving Grammatical Error Correction with Detection Template](https://aclanthology.org/2023.acl-long.380.pdf), Yinghao Li, Xuebo Liu, Shuo Wang, **Peiyuan Gong**, Derek F.Wong, Yang Gao, Heyan Huang and Min Zhang \| [Project](https://github.com/li-aolong/TemplateGEC)
 - ``EMNLP 2022`` [Revisiting Grammatical Error Correction Evaluation and Beyond](https://aclanthology.org/2022.emnlp-main.463/), **Peiyuan Gong**, Xuebo Liu, Heyan Huang and Min Zhang \| [Project](https://github.com/pygongnlp/PT-M2)
@@ -54,3 +55,6 @@ Please feel free in touch if you are interested in my research work and want to 
 - *2022.03 - 2022.07*, Harbin Institute of Technology, Shenzhen (remote), advised by Assistant Prof [Xuebo Liu](https://sunbowliu.github.io/).
 - *2021.10 - 2022.02*, Wechat AI, advised by [Yong Hu](https://nghuyong.top/).
 - *2019.06 - 2019.08*, Westlake University, advised by Prof [Yue Zhang](https://frcchang.github.io/).
+
+# 🎖 Honors and Awards
+- 2024, SIGIR Best Short Paper Nominee
