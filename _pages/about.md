@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hello, I am Peiyuan Gong (公培元, in Chinese). Feel free to call me Pei Yuan.
-I am a first-year Ph.D. student at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/index.htm), [Renmin University of China](https://www.ruc.edu.cn/), under the supervision of [Jiaxin Mao](https://sites.google.com/site/maojiaxin/).
+I am a second-year Ph.D. student at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/index.htm), [Renmin University of China](https://www.ruc.edu.cn/), under the supervision of [Jiaxin Mao](https://sites.google.com/site/maojiaxin/).
 Before that, I received M.Eng and B.Eng degrees in Computer Science and Technology from [Beijing Institute of Technology](https://bit.edu.cn/) in 2023 and from [Zhengzhou University](http://www.zzu.edu.cn/) in 2020, respectively.
 
 My research focuses on information retrieval and natural language processing, having published several papers 
@@ -28,7 +28,8 @@ Currently, I am dedicated to exploring the next generation of search engine with
 Please feel free in touch if you are interested in my research work and want to communicate further.
 
 # 🔥 News
-- *2024.07*: &nbsp;🎉🎉 Our paper titled "CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models" was selected as a nominee for the Best Short Paper Award of SIGIR 2024 ([twitter](https://x.com/SIGIRConf/status/1812881830150062135))!
+- *2024.09*: &nbsp; We are hosting a task on "Legal Element and Controversy Focus Identification (法律要素和争议焦点识别)" at the CAIL 2024 competition and warmly invite everyone to participate ([CAIL 2024](http://cail.cipsc.org.cn/task_summit.html?raceID=2&cail_tag=2024))！
+- *2024.07*: &nbsp;🎉🎉 Our paper titled "CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models" was selected as a nominee for the Best Short Paper Award of SIGIR 2024 ([Twitter](https://x.com/SIGIRConf/status/1812881830150062135))!
 - *2024.03*: &nbsp;🎉🎉 Two papers are accepted by SIGIR2024!
 - *2023.05*: &nbsp;🎉🎉 One paper is accepted by ACL2023!
 - *2023.03*: &nbsp;🎉🎉 I will join Renmin University of China to study for Ph.D!
