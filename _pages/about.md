@@ -52,7 +52,7 @@ Please feel free in touch if you are interested in my research work and want to 
 - *2016.09 - 2020.06*, Undergraduate, School of Computer and Artificial Intelligence, Zhengzhou University, advised by Prof [Hongying Zan](http://www5.zzu.edu.cn/nlp/info/1004/1169.htm).
 
 # 💻 Internships
-- *2024.09 - Present*, Kuaishou Technology, Beijing.
+- *2024.09 - Present*, Kuaishou Technology, Beijing, advised by [Kai Zheng](https://scholar.google.com/citations?hl=en&user=Bw-WdyUAAAAJ&view_op=list_works&sortby=pubdate)
 - *2022.10 - 2023.08*, Renmin University of China, Beijing, advised by Associate Prof [Jiaxin Mao](https://sites.google.com/site/maojiaxin/). 
 - *2022.03 - 2022.07*, Harbin Institute of Technology, Shenzhen (remote), advised by Assistant Prof [Xuebo Liu](https://sunbowliu.github.io/).
 - *2021.10 - 2022.02*, Wechat AI, Beijing, advised by [Yong Hu](https://nghuyong.top/).
