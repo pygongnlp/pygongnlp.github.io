@@ -28,7 +28,7 @@ Currently, I am dedicated to exploring the next generation of search engine with
 Please feel free in touch if you are interested in my research work and want to communicate further.
 
 # 🔥 News
-- *2024.09*: &nbsp; We are hosting a task on "Legal Element and Controversy Focus Identification (法律要素和争议焦点识别)" at the CAIL 2024 competition and warmly invite everyone to participate ([CAIL 2024](http://cail.cipsc.org.cn/task_summit.html?raceID=2&cail_tag=2024))！
+- *2024.09*: &nbsp;🎉🎉 We are hosting a task on "Legal Element and Controversy Focus Identification (法律要素和争议焦点识别)" at the CAIL 2024 competition and warmly invite everyone to participate ([CAIL 2024](http://cail.cipsc.org.cn/task_summit.html?raceID=2&cail_tag=2024))！
 - *2024.07*: &nbsp;🎉🎉 Our paper titled "CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models" was selected as a nominee for the Best Short Paper Award of SIGIR 2024 ([Twitter](https://x.com/SIGIRConf/status/1812881830150062135))!
 - *2024.03*: &nbsp;🎉🎉 Two papers are accepted by SIGIR2024!
 - *2023.05*: &nbsp;🎉🎉 One paper is accepted by ACL2023!
@@ -41,7 +41,7 @@ Please feel free in touch if you are interested in my research work and want to 
   
 ## Published
 - ``SIGIR 2024`` <span style="color: red; font-weight: bold;"> **(Best Short Paper Nominee)**</span> [CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models](https://arxiv.org/pdf/2402.06360.pdf), **Peiyuan Gong**, Jiamian Li and Jiaxin Mao \| [Project](https://github.com/pygongnlp/CoSearchAgent) 
-- ``SIGIR 2024`` (Short) [USimAgent: Large Language Models for Simulating Search Users](https://arxiv.org/pdf/2403.09142.pdf), Erhan Zhang, Xingzhu Wang, **Peiyuan Gong**, Yankai Lin and Jiaxin Mao 
+- ``SIGIR 2024`` [USimAgent: Large Language Models for Simulating Search Users](https://arxiv.org/pdf/2403.09142.pdf), Erhan Zhang, Xingzhu Wang, **Peiyuan Gong**, Yankai Lin and Jiaxin Mao 
 - ``ACL 2023`` <span style="color: red; font-weight: bold;">(Oral)</span> [TemplateGEC: Improving Grammatical Error Correction with Detection Template](https://aclanthology.org/2023.acl-long.380.pdf), Yinghao Li, Xuebo Liu, Shuo Wang, **Peiyuan Gong**, Derek F.Wong, Yang Gao, Heyan Huang and Min Zhang \| [Project](https://github.com/li-aolong/TemplateGEC)
 - ``EMNLP 2022`` [Revisiting Grammatical Error Correction Evaluation and Beyond](https://aclanthology.org/2022.emnlp-main.463/), **Peiyuan Gong**, Xuebo Liu, Heyan Huang and Min Zhang \| [Project](https://github.com/pygongnlp/PT-M2)
 - ``NLPCC 2019`` [Charge Prediction with Legal Attention](https://link.springer.com/chapter/10.1007/978-3-030-32233-5_35), Qiaoben bao, Hongying Zan, **Peiyuan Gong**, Junyi Chen and Yanghua Xiao
