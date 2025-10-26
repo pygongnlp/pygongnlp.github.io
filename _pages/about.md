@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 Hello, I am Peiyuan Gong (公培元, in Chinese). Feel free to call me Pei Yuan.
-I am a second-year Ph.D. student at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/index.htm), [Renmin University of China](https://www.ruc.edu.cn/), under the supervision of [Jiaxin Mao](https://sites.google.com/site/maojiaxin/).
+I am a third-year Ph.D. student at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/index.htm), [Renmin University of China](https://www.ruc.edu.cn/), under the supervision of [Jiaxin Mao](https://sites.google.com/site/maojiaxin/).
 Before that, I received M.Eng and B.Eng degrees in Computer Science and Technology from [Beijing Institute of Technology](https://bit.edu.cn/) in 2023 and from [Zhengzhou University](http://www.zzu.edu.cn/) in 2020, respectively.
 
 My research focuses on information retrieval and natural language processing, having published several papers 
@@ -36,14 +36,14 @@ Please feel free in touch if you are interested in my research work and want to 
 - *2022.11*: &nbsp;🎉🎉 One paper is accepted by EMNLP2022!
 
 # 📝 Publications 
-## Preprint
-- ``arxiv 2023/12`` [CoAScore: Chain-of-Aspects Prompting for NLG Evaluation](https://arxiv.org/pdf/2312.10355.pdf), **Peiyuan Gong**, Jiaxin Mao
-  
-## Published
-- ``SIGIR 2024`` <span style="color: red; font-weight: bold;"> **(Best Short Paper Nominee)**</span> [CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models](https://arxiv.org/pdf/2402.06360.pdf), **Peiyuan Gong**, Jiamian Li and Jiaxin Mao \| [Project](https://github.com/pygongnlp/CoSearchAgent) 
-- ``SIGIR 2024`` [USimAgent: Large Language Models for Simulating Search Users](https://arxiv.org/pdf/2403.09142.pdf), Erhan Zhang, Xingzhu Wang, **Peiyuan Gong**, Yankai Lin and Jiaxin Mao 
-- ``ACL 2023`` <span style="color: red; font-weight: bold;">(Oral)</span> [TemplateGEC: Improving Grammatical Error Correction with Detection Template](https://aclanthology.org/2023.acl-long.380.pdf), Yinghao Li, Xuebo Liu, Shuo Wang, **Peiyuan Gong**, Derek F.Wong, Yang Gao, Heyan Huang and Min Zhang \| [Project](https://github.com/li-aolong/TemplateGEC)
+- ``SIGIR 2024`` <span style="color: red; font-weight: bold;"> **[Best Short Paper Nominee]**</span> [CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models](https://arxiv.org/pdf/2402.06360.pdf), **Peiyuan Gong**, Jiamian Li and Jiaxin Mao \| [Project](https://github.com/pygongnlp/CoSearchAgent)
 - ``EMNLP 2022`` [Revisiting Grammatical Error Correction Evaluation and Beyond](https://aclanthology.org/2022.emnlp-main.463/), **Peiyuan Gong**, Xuebo Liu, Heyan Huang and Min Zhang \| [Project](https://github.com/pygongnlp/PT-M2)
+- ``arxiv 2025/10`` [CardRewriter: Leveraging Knowledge Cards for Long-Tail Query
+Rewriting on Short-Video Platforms](https://arxiv.org/pdf/2510.10095), **Peiyuan Gong***, Feiran Zhu*, Yaqi Yin*, Chenglei Dai, Chao Zhang, Kai Zheng, Wentian Bao, Jiaxin Mao and Yi Zhang
+- ``arxiv 2023/12`` [CoAScore: Chain-of-Aspects Prompting for NLG Evaluation](https://arxiv.org/pdf/2312.10355.pdf), **Peiyuan Gong**, Jiaxin Mao
+- ``SIGIR 2025`` [Exploring human-like thinking in search simulations with large language models](https://arxiv.org/pdf/2403.09142.pdf), Erhan Zhang, Xingzhu Wang, **Peiyuan Gong**, Yankai Lin and Jiaxin Mao 
+- ``SIGIR 2024`` [USimAgent: Large Language Models for Simulating Search Users](https://arxiv.org/pdf/2504.07570), Erhan Zhang, Xingzhu Wang, **Peiyuan Gong**, Zixuan Yang and Jiaxin Mao 
+- ``ACL 2023`` <span style="color: red; font-weight: bold;">[Oral]</span> [TemplateGEC: Improving Grammatical Error Correction with Detection Template](https://aclanthology.org/2023.acl-long.380.pdf), Yinghao Li, Xuebo Liu, Shuo Wang, **Peiyuan Gong**, Derek F.Wong, Yang Gao, Heyan Huang and Min Zhang \| [Project](https://github.com/li-aolong/TemplateGEC)
 - ``NLPCC 2019`` [Charge Prediction with Legal Attention](https://link.springer.com/chapter/10.1007/978-3-030-32233-5_35), Qiaoben bao, Hongying Zan, **Peiyuan Gong**, Junyi Chen and Yanghua Xiao
 
 # 📖 Educations
