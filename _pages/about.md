@@ -39,7 +39,7 @@ Please feel free in touch if you are interested in my research work and want to 
 - ``SIGIR 2024`` <span style="color: red; font-weight: bold;"> **[Best Short Paper Nominee]**</span> [CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models](https://arxiv.org/pdf/2402.06360.pdf), **Peiyuan Gong**, Jiamian Li and Jiaxin Mao \| [Project](https://github.com/pygongnlp/CoSearchAgent)
 - ``EMNLP 2022`` [Revisiting Grammatical Error Correction Evaluation and Beyond](https://aclanthology.org/2022.emnlp-main.463/), **Peiyuan Gong**, Xuebo Liu, Heyan Huang and Min Zhang \| [Project](https://github.com/pygongnlp/PT-M2)
 - ``arxiv 2025/10`` [CardRewriter: Leveraging Knowledge Cards for Long-Tail Query
-Rewriting on Short-Video Platforms](https://arxiv.org/pdf/2510.10095), **Peiyuan Gong***, Feiran Zhu*, Yaqi Yin*, Chenglei Dai, Chao Zhang, Kai Zheng, Wentian Bao, Jiaxin Mao and Yi Zhang
+Rewriting on Short-Video Platforms](https://arxiv.org/pdf/2510.10095), **Peiyuan Gong\***, Feiran Zhu\*, Yaqi Yin\*, Chenglei Dai, Chao Zhang, Kai Zheng, Wentian Bao, Jiaxin Mao and Yi Zhang
 - ``arxiv 2023/12`` [CoAScore: Chain-of-Aspects Prompting for NLG Evaluation](https://arxiv.org/pdf/2312.10355.pdf), **Peiyuan Gong**, Jiaxin Mao
 - ``SIGIR 2025`` [Exploring human-like thinking in search simulations with large language models](https://arxiv.org/pdf/2403.09142.pdf), Erhan Zhang, Xingzhu Wang, **Peiyuan Gong**, Yankai Lin and Jiaxin Mao 
 - ``SIGIR 2024`` [USimAgent: Large Language Models for Simulating Search Users](https://arxiv.org/pdf/2504.07570), Erhan Zhang, Xingzhu Wang, **Peiyuan Gong**, Zixuan Yang and Jiaxin Mao 
