@@ -27,7 +27,10 @@ Currently, I am dedicated to exploring the next generation of search engine with
 
 Please feel free in touch if you are interested in my research work and want to communicate further.
 
+<span style="color: red; font-weight: bold;">Moreover, I am the CEO of **KnowBox**(https://kbox.aicelv.com/), an AI and search startup. We built the world’s first platform combining large-scale AI models with content distribution to solve long-tail and complex questions that traditional search often misses. Through Human-AI Interaction, we create high-quality content faster, and we believe AI will rapidly expand the boundaries of human knowledge. Please feel free to contact me anytime if you have any questions about our platform. </span>
+
 # 🔥 News
+- *2025.12*: &nbsp;🎉🎉 Our startup project [KnowBox](https://kbox.aicelv.com/) is now live — designed to unlock infinite creative possibilities in every search through seamless human‑AI interaction. Try it out and explore the future of creativity!
 - *2024.09*: &nbsp;🎉🎉 We are hosting a task on "Legal Element and Controversy Focus Identification (法律要素和争议焦点识别)" at the CAIL 2024 competition and warmly invite everyone to participate ([CAIL 2024](http://cail.cipsc.org.cn/task_summit.html?raceID=2&cail_tag=2024))！
 - *2024.07*: &nbsp;🎉🎉 Our paper titled "CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models" was selected as a nominee for the Best Short Paper Award of SIGIR 2024 ([Twitter](https://x.com/SIGIRConf/status/1812881830150062135))!
 - *2024.03*: &nbsp;🎉🎉 Two papers are accepted by SIGIR2024!
