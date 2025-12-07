@@ -25,9 +25,9 @@ My research focuses on information retrieval and natural language processing, ha
 at the top international AI conferences such as SIGIR, ACL, EMNLP. 
 Currently, I am dedicated to exploring the next generation of search engine with large language models.
 
-Please feel free in touch if you are interested in my research work and want to communicate further.
+Currently, I am the CEO of **KnowBox**(https://kbox.aicelv.com/), an AI+Search startup. We built the world’s first search platform combining large-scale AI models with content distribution to solve long-tail and complex questions that traditional search often misses. Through Human-AI Interaction, we create high-quality content faster, and we believe AI will rapidly expand the boundaries of human knowledge. 
 
-<span style="color: red; font-weight: bold;">Moreover, I am the CEO of **KnowBox**(https://kbox.aicelv.com/), an AI and search startup. We built the world’s first platform combining large-scale AI models with content distribution to solve long-tail and complex questions that traditional search often misses. Through Human-AI Interaction, we create high-quality content faster, and we believe AI will rapidly expand the boundaries of human knowledge. Please feel free to contact me anytime if you have any questions about our platform. </span>
+Thanks to my team for their dedication and hard work in pursuing our company’s objectives. Please feel free to contact me anytime if you have any questions about our platform. 
 
 # 🔥 News
 - *2025.12*: &nbsp;🎉🎉 Our startup project [KnowBox](https://kbox.aicelv.com/) is now live — designed to unlock infinite creative possibilities in every search through seamless human‑AI interaction. Try it out and explore the future of creativity!
