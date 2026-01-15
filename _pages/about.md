@@ -22,7 +22,7 @@ I am a third-year Ph.D. student at the [Gaoling School of Artificial Intelligenc
 Before that, I received M.Eng and B.Eng degrees in Computer Science and Technology from [Beijing Institute of Technology](https://bit.edu.cn/) in 2023 and from [Zhengzhou University](http://www.zzu.edu.cn/) in 2020, respectively.
 
 My research focuses on information retrieval and natural language processing, having published several papers 
-at the top international AI conferences such as SIGIR, ACL, EMNLP. 
+at the top international AI conferences such as SIGIR, WWW, ACL, EMNLP. 
 Currently, I am dedicated to exploring the next generation of search engine with large language models.
 
 <span style="color: red;"> Currently, I am the CEO of **KnowBox**, an AI+Search startup. </span> We built the world’s first search platform combining large-scale AI models with content distribution to solve long-tail and complex questions that traditional search often misses. Through Human-AI Interaction, we create high-quality content faster, and we believe AI will rapidly expand the boundaries of human knowledge. Detailed information can be found at https://kbox.aicelv.com.
@@ -30,7 +30,8 @@ Currently, I am dedicated to exploring the next generation of search engine with
 Thanks to my team for their dedication and hard work in pursuing our company’s objectives. Please feel free to contact me anytime if you have any questions about our platform. 
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 Our startup project [KnowBox](https://kbox.aicelv.com/) is now live — designed to unlock infinite creative possibilities in every search through seamless human‑AI interaction. Try it out and explore the future of creativity!
+- *2026.01*: &nbsp;🎉🎉 One paper is accepted by WWW2026!
+- *2025.03*: &nbsp;🎉🎉 One paper is accepted by SIGIR2025!
 - *2024.09*: &nbsp;🎉🎉 We are hosting a task on "Legal Element and Controversy Focus Identification (法律要素和争议焦点识别)" at the CAIL 2024 competition and warmly invite everyone to participate ([CAIL 2024](http://cail.cipsc.org.cn/task_summit.html?raceID=2&cail_tag=2024))！
 - *2024.07*: &nbsp;🎉🎉 Our paper titled "CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models" was selected as a nominee for the Best Short Paper Award of SIGIR 2024 ([Twitter](https://x.com/SIGIRConf/status/1812881830150062135))!
 - *2024.03*: &nbsp;🎉🎉 Two papers are accepted by SIGIR2024!
@@ -39,14 +40,14 @@ Thanks to my team for their dedication and hard work in pursuing our company’s
 - *2022.11*: &nbsp;🎉🎉 One paper is accepted by EMNLP2022!
 
 # 📝 Publications 
-- ``SIGIR 2024`` <span style="color: red; font-weight: bold;"> **[Best Short Paper Nominee]**</span> [CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models](https://arxiv.org/pdf/2402.06360.pdf), **Peiyuan Gong**, Jiamian Li and Jiaxin Mao \| [Project](https://github.com/pygongnlp/CoSearchAgent)
-- ``EMNLP 2022`` [Revisiting Grammatical Error Correction Evaluation and Beyond](https://aclanthology.org/2022.emnlp-main.463/), **Peiyuan Gong**, Xuebo Liu, Heyan Huang and Min Zhang \| [Project](https://github.com/pygongnlp/PT-M2)
-- ``arxiv 2025/10`` [CardRewriter: Leveraging Knowledge Cards for Long-Tail Query
+- ``WWW 2026`` [CardRewriter: Leveraging Knowledge Cards for Long-Tail Query
 Rewriting on Short-Video Platforms](https://arxiv.org/pdf/2510.10095), **Peiyuan Gong\***, Feiran Zhu\*, Yaqi Yin\*, Chenglei Dai, Chao Zhang, Kai Zheng, Wentian Bao, Jiaxin Mao and Yi Zhang
-- ``arxiv 2023/12`` [CoAScore: Chain-of-Aspects Prompting for NLG Evaluation](https://arxiv.org/pdf/2312.10355.pdf), **Peiyuan Gong**, Jiaxin Mao
 - ``SIGIR 2025`` [Exploring human-like thinking in search simulations with large language models](https://arxiv.org/pdf/2403.09142.pdf), Erhan Zhang, Xingzhu Wang, **Peiyuan Gong**, Yankai Lin and Jiaxin Mao 
-- ``SIGIR 2024`` [USimAgent: Large Language Models for Simulating Search Users](https://arxiv.org/pdf/2504.07570), Erhan Zhang, Xingzhu Wang, **Peiyuan Gong**, Zixuan Yang and Jiaxin Mao 
+- ``SIGIR 2024`` <span style="color: red; font-weight: bold;"> **[Best Short Paper Nominee]**</span> [CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models](https://arxiv.org/pdf/2402.06360.pdf), **Peiyuan Gong**, Jiamian Li and Jiaxin Mao \| [Project](https://github.com/pygongnlp/CoSearchAgent)
+- ``SIGIR 2024`` [USimAgent: Large Language Models for Simulating Search Users](https://arxiv.org/pdf/2504.07570), Erhan Zhang, Xingzhu Wang, **Peiyuan Gong**, Zixuan Yang and Jiaxin Mao
 - ``ACL 2023`` <span style="color: red; font-weight: bold;">[Oral]</span> [TemplateGEC: Improving Grammatical Error Correction with Detection Template](https://aclanthology.org/2023.acl-long.380.pdf), Yinghao Li, Xuebo Liu, Shuo Wang, **Peiyuan Gong**, Derek F.Wong, Yang Gao, Heyan Huang and Min Zhang \| [Project](https://github.com/li-aolong/TemplateGEC)
+- ``arxiv 2023/12`` [CoAScore: Chain-of-Aspects Prompting for NLG Evaluation](https://arxiv.org/pdf/2312.10355.pdf), **Peiyuan Gong**, Jiaxin Mao
+- ``EMNLP 2022`` [Revisiting Grammatical Error Correction Evaluation and Beyond](https://aclanthology.org/2022.emnlp-main.463/), **Peiyuan Gong**, Xuebo Liu, Heyan Huang and Min Zhang \| [Project](https://github.com/pygongnlp/PT-M2)
 - ``NLPCC 2019`` [Charge Prediction with Legal Attention](https://link.springer.com/chapter/10.1007/978-3-030-32233-5_35), Qiaoben bao, Hongying Zan, **Peiyuan Gong**, Junyi Chen and Yanghua Xiao
 
 # 📖 Educations
@@ -55,7 +56,8 @@ Rewriting on Short-Video Platforms](https://arxiv.org/pdf/2510.10095), **Peiyuan
 - *2016.09 - 2020.06*, Undergraduate, School of Computer and Artificial Intelligence, Zhengzhou University, advised by Prof [Hongying Zan](http://www5.zzu.edu.cn/nlp/info/1004/1169.htm).
 
 # 💻 Internships
-- *2024.09 - Present*, Kuaishou Technology, Beijing, advised by [Kai Zheng](https://scholar.google.com/citations?hl=en&user=Bw-WdyUAAAAJ&view_op=list_works&sortby=pubdate)
+- *2025.12 - present*, ByteDance Lark Search, Beijing, advised by [Xing Shi](https://scholar.google.com/citations?user=lzGNZUcAAAAJ&hl=en&oi=ao)
+- *2024.10 - 2025.11*, Kuaishou Technology, Beijing, advised by Chenglei Dai, [Kai Zheng](https://scholar.google.com/citations?hl=en&user=Bw-WdyUAAAAJ&view_op=list_works&sortby=pubdate)
 - *2022.10 - 2023.08*, Renmin University of China, Beijing, advised by Associate Prof [Jiaxin Mao](https://sites.google.com/site/maojiaxin/). 
 - *2022.03 - 2022.07*, Harbin Institute of Technology, Shenzhen (remote), advised by Assistant Prof [Xuebo Liu](https://sunbowliu.github.io/).
 - *2021.10 - 2022.02*, Wechat AI, Beijing, advised by [Yong Hu](https://nghuyong.top/).
