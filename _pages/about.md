@@ -27,6 +27,9 @@ Currently, I am dedicated to exploring the next generation of search engine with
 <span style="color: red;"> Currently, I am the CEO of **[WanYan (万言， in Chinese)](https://kbox.aicelv.com)**, an AI+Search startup. </span> Our product is built around the Agentic SERP, where every user query triggers parallel responses from multiple AI agents. We believe that this approach can identify a near-optimal solution for user queries from the current pool of agents.
 Moreover, for merchants without agent-building capabilities, we provide virtual sales agents that integrate enterprise knowledge and engage users within the Agentic SERP to recommend their products.
 
+We are excited to partner with AI agents of diverse capabilities on WanYan, offering them meaningful exposure and real business growth. If you’d like to sell your services or products on our platform, get in touch with us. We’ll create a custom sales agent for you for free—so you can reach more users and dramatically boost your lead conversion rates.
+
+
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by WWW2026!
 - *2025.12*: &nbsp;🎉🎉 [WanYan](https://kbox.aicelv.com) is now live, delivering an Agentic SERP instead of a single agent result for user queries. Feel free to try it!
