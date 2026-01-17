@@ -21,13 +21,12 @@ Hello, I am Peiyuan Gong (公培元, in Chinese). Feel free to call me Pei Yuan.
 I am a third-year Ph.D. student at the [Gaoling School of Artificial Intelligence](http://ai.ruc.edu.cn/index.htm), [Renmin University of China](https://www.ruc.edu.cn/), under the supervision of [Jiaxin Mao](https://sites.google.com/site/maojiaxin/).
 Before that, I received M.Eng and B.Eng degrees in Computer Science and Technology from [Beijing Institute of Technology](https://bit.edu.cn/) in 2023 and from [Zhengzhou University](http://www.zzu.edu.cn/) in 2020, respectively.
 
-My research focuses on information retrieval and natural language processing, having published several papers 
-at the top international AI conferences such as SIGIR, WWW, ACL, EMNLP. 
+My research focuses on information retrieval and human-AI interaction, having published several papers at the top international AI conferences such as SIGIR, WWW, ACL, EMNLP. 
 Currently, I am dedicated to exploring the next generation of search engine with large language models.
 
-<span style="color: red;"> Currently, I am the CEO of **KnowBox**, an AI+Search startup. </span> We built the world’s first search platform combining large-scale AI models with content distribution to solve long-tail and complex questions that traditional search often misses. Through Human-AI Interaction, we create high-quality content faster, and we believe AI will rapidly expand the boundaries of human knowledge. Detailed information can be found at https://kbox.aicelv.com.
+<span style="color: red;"> Currently, I am the CEO of **[WanYan (万言， in Chinese)](https://kbox.aicelv.com)**, an AI+Search startup. </span> We built the world’s first search platform combining large-scale AI models with content distribution to solve long-tail and complex questions that traditional search often misses. Through Human-AI Interaction, we create high-quality content faster, and we believe AI will rapidly expand the boundaries of human knowledge. 
 
-Thanks to my team for their dedication and hard work in pursuing our company’s objectives. Please feel free to contact me anytime if you have any questions about our platform. 
+Thanks to my team for their dedication and hard work in pursuing our company’s objectives. Please feel free to contact me anytime if you have any questions. 
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by WWW2026!
