@@ -29,6 +29,7 @@ Moreover, for merchants without agent-building capabilities, we provide virtual 
 
 # 🔥 News
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by WWW2026!
+- *2025.12*: &nbsp;🎉🎉 [WanYan](https://kbox.aicelv.com) is now live, delivering an Agentic SERP instead of a single agent result for user queries. Feel free to try it!
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by SIGIR2025!
 - *2024.09*: &nbsp;🎉🎉 We are hosting a task on "Legal Element and Controversy Focus Identification (法律要素和争议焦点识别)" at the CAIL 2024 competition and warmly invite everyone to participate ([CAIL 2024](http://cail.cipsc.org.cn/task_summit.html?raceID=2&cail_tag=2024))！
 - *2024.07*: &nbsp;🎉🎉 Our paper titled "CoSearchAgent: A Lightweight Collaborative Search Agent with Large Language Models" was selected as a nominee for the Best Short Paper Award of SIGIR 2024 ([Twitter](https://x.com/SIGIRConf/status/1812881830150062135))!
