@@ -31,6 +31,7 @@ We are excited to partner with AI agents of diverse capabilities on WanYan, offe
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 One paper is accepted by SIGIR-AP2026!
 - *2026.01*: &nbsp;🎉🎉 One paper is accepted by WWW2026!
 - *2025.12*: &nbsp;🎉🎉 [WanYan](https://kbox.aicelv.com) is now live, delivering an Agentic SERP instead of a single agent result for user queries. Feel free to try it!
 - *2025.03*: &nbsp;🎉🎉 One paper is accepted by SIGIR2025!
@@ -42,6 +43,7 @@ We are excited to partner with AI agents of diverse capabilities on WanYan, offe
 - *2022.11*: &nbsp;🎉🎉 One paper is accepted by EMNLP2022!
 
 # 📝 Publications 
+- ``SIGIR-AP 2026`` [Collaborative Search Meets Large Language Models: An Empirical Study](https://arxiv.org/pdf/2510.10095), **Peiyuan Gong**, Jiamian Li, Erhan Zhang, Fengming Liang, Kexin Liu, Jiaxin Mao
 - ``WWW 2026`` [CardRewriter: Leveraging Knowledge Cards for Long-Tail Query
 Rewriting on Short-Video Platforms](https://arxiv.org/pdf/2510.10095), **Peiyuan Gong\***, Feiran Zhu\*, Yaqi Yin\*, Chenglei Dai, Chao Zhang, Kai Zheng, Wentian Bao, Jiaxin Mao and Yi Zhang
 - ``SIGIR 2025`` [Exploring human-like thinking in search simulations with large language models](https://arxiv.org/pdf/2403.09142.pdf), Erhan Zhang, Xingzhu Wang, **Peiyuan Gong**, Yankai Lin and Jiaxin Mao 
